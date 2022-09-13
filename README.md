@@ -7,3 +7,5 @@ Simple MERN crud with basic auth and autentication, posts and likes. Frontend lo
 #run: npm run server in ./server directory
 
 See this app running and recorded here:  https://www.youtube.com/watch?v=kvCy72wntak
+
+You don't need to download npm modules in both folders
